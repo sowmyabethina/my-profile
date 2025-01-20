@@ -56,9 +56,11 @@ function App() {
       <section className="portfolio">
         <h2>Portfolio</h2>
         <ul>
-          <li>Codechef: <a href="#">codechef/sowmya_bethina</a></li>
-          <li>HackerRank: <a href="#">@sowmya_bethina</a></li>
-          <li>LinkedIn: <a href="#">Sowmya Bethina</a></li>
+        <li>Codechef: <a href="https://www.codechef.com/users/sowmya_bethina" target="_blank" rel="noopener noreferrer">codechef/sowmya_bethina</a></li>
+<li>HackerRank: <a href="https://www.hackerrank.com/sowmya_bethina" target="_blank" rel="noopener noreferrer">@sowmya_bethina</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/sowmyabethina" target="_blank" rel="noopener noreferrer">Sowmya Bethina</a></li>
+
+
         </ul>
       </section>
 
